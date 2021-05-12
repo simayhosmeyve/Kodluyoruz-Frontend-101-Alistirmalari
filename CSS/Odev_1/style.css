@@ -1,0 +1,12 @@
+h1{
+    color: firebrick;
+    font-size: 40px;
+}
+button{
+    background-color: sandybrown;
+    font-size: 30px;
+}
+.text{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
