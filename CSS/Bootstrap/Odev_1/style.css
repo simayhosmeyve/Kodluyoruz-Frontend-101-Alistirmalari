@@ -1,0 +1,14 @@
+.background{
+    background-color:#E9ECEF; 
+    background-size:cover;
+}
+h1{
+    color: firebrick;
+    font-size: 40px;
+    margin-left: 10px;
+}
+button{
+    background-color: sandybrown;
+    font-size: 17px;
+}
+
