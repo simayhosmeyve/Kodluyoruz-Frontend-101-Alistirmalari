@@ -2,7 +2,7 @@
 
 ## Bootstrap Linkedin Clone
 
-![linkedin](/figures/linkedin.gif)
+![linkedin](figures/linkedin.gif)
 
 - Sol taraftaki en yeni kartı sticky-top olarak ayarlanmıştır. Böylece sayfa aşağı inerken görünmeye devam eder.
 
