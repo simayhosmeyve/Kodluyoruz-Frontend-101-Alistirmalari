@@ -4,6 +4,6 @@
 
 Örnek Sayfa:
 
-![todolist](list.gif)
+![todolist](figures/list.gif)
 
 Sayfanın işlevselliği javascript ile kazandırılmıştır.
